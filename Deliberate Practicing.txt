@@ -1,0 +1,2 @@
+practice  the code by writing it  again and again 
+the is the rock paper scissors game that we have created using javascipt logic
